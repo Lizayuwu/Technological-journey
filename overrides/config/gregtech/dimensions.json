@@ -11,6 +11,146 @@
     {
       "dimID": -1,
       "dimName": "Nether"
+    },
+    {
+      "dimID": 100,
+      "dimName": "Moon"
+    },
+    {
+      "dimID": 101,
+      "dimName": "Mars"
+    },
+    {
+      "dimID": 102,
+      "dimName": "Phobos"
+    },
+    {
+      "dimID": 103,
+      "dimName": "Deimos"
+    },
+    {
+      "dimID": 104,
+      "dimName": "Asteroids"
+    },
+    {
+      "dimID": 105,
+      "dimName": "Mercury"
+    },
+    {
+      "dimID": 106,
+      "dimName": "Venus"
+    },
+    {
+      "dimID": 107,
+      "dimName": "Jupiter"
+    },
+    {
+      "dimID": 108,
+      "dimName": "Ganymede"
+    },
+    {
+      "dimID": 109,
+      "dimName": "Io"
+    },
+    {
+      "dimID": 110,
+      "dimName": "Callisto"
+    },
+    {
+      "dimID": 111,
+      "dimName": "Europa"
+    },
+    {
+      "dimID": 112,
+      "dimName": "Saturn"
+    },
+    {
+      "dimID": 113,
+      "dimName": "Titan"
+    },
+    {
+      "dimID": 114,
+      "dimName": "Enceladus"
+    },
+    {
+      "dimID": 115,
+      "dimName": "Tethys"
+    },
+    {
+      "dimID": 116,
+      "dimName": "Uranus"
+    },
+    {
+      "dimID": 117,
+      "dimName": "Oberon"
+    },
+    {
+      "dimID": 118,
+      "dimName": "Miranda"
+    },
+    {
+      "dimID": 119,
+      "dimName": "Neptune"
+    },
+    {
+      "dimID": 120,
+      "dimName": "Triton"
+    },
+    {
+      "dimID": 121,
+      "dimName": "Proteus"
+    },
+    {
+      "dimID": 122,
+      "dimName": "Pluto"
+    },
+    {
+      "dimID": 123,
+      "dimName": "Charon"
+    },
+    {
+      "dimID": 124,
+      "dimName": ""
+    },
+    {
+      "dimID": 125,
+      "dimName": ""
+    },
+    {
+      "dimID": 126,
+      "dimName": ""
+    },
+    {
+      "dimID": 127,
+      "dimName": ""
+    },
+    {
+      "dimID": 128,
+      "dimName": ""
+    },
+    {
+      "dimID": 129,
+      "dimName": ""
+    },
+    {
+      "dimID": 130,
+      "dimName": ""
+    },
+    {
+      "dimID": 131,
+      "dimName": ""
+    },
+    {
+      "dimID": 132,
+      "dimName": ""
+    },
+    {
+      "dimID": 133,
+      "dimName": ""
+    },
+    {
+      "dimID": 134,
+      "dimName": ""
     }
   ]
 }
