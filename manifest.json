@@ -18,7 +18,7 @@
       "url": "https://github.com/PrototypeTrousers/Applied-Energistics-2/releases/download/omni-fixes-v47/appliedenergistics2-rv6-stable-7.omni-fixes-v47i.jar",
       "sha": "71D65E6CC66F9AEBDD8CB5D77D24E577"
     }
-  ],
+    ],
     "files": [{
             "projectID": 318551,
             "fileID": 3101596,
@@ -550,13 +550,13 @@
             "required": true
         },
         {
-            "projectID": 2950248,
-            "fileID": 238856,
+            "projectID": 238856,
+            "fileID": 2950248,
             "required": true
         },
         {
-            "projectID": 2950287,
-            "fileID": 238857,
+            "projectID": 238857,
+            "fileID": 2950287,
             "required": true
         },
         {
